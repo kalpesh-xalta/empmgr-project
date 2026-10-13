@@ -1,0 +1,4 @@
+.task6v/
+__pycache__/
+*.pyc
+.env
