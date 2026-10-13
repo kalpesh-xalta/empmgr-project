@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Tushar",
+    "email": "tushar@gmail.com",
+    "department": "Dev-ops",
+    "salary": 20000.0
+  },
+  {
+    "id": 2,
+    "name": "Yash",
+    "email": "Yash@gmail.com",
+    "department": "IT",
+    "salary": 30000.0
+  },
+  {
+    "id": 3,
+    "name": "Swayam",
+    "email": "Swayam@gmail.com",
+    "department": "AWS",
+    "salary": 40000.0
+  },
+  {
+    "id": 4,
+    "name": "Bhushan",
+    "email": "Bhushan@gmail.com",
+    "department": "SDE 1",
+    "salary": 120000.0
+  }
+]
