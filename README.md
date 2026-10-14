@@ -24,3 +24,15 @@ Downloading tabulate-0.10.0-py3-none-any.whl (39 kB)
 Installing collected packages: tabulate
 Successfully installed tabulate-0.10.0
 (task06) PS C:\Users\user\Downloads\Xalta-Training\Python-Bootcamp> 
+
+
+<!-- Assignment 3 output -->
+History
+PS C:\Users\user\Downloads\Xalta-Training\Python-Bootcamp\Day-06\Assignments\empmgr-project> git log --oneline --graph --all 
+* 487293d (HEAD -> feature/validation) validate salary and email inputs
+* d8252e8 (HEAD -> main, origin/main) Add employee menu and functions
+* c27382e Export employee package functions
+* f600ad9 Add salary input validation
+* 88613bc Add JSON employee storage
+* a18a428 Add employee data model
+* fdd07fc Added ignore rules
