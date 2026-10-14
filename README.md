@@ -29,8 +29,14 @@ Successfully installed tabulate-0.10.0
 <!-- Assignment 3 output -->
 History
 PS C:\Users\user\Downloads\Xalta-Training\Python-Bootcamp\Day-06\Assignments\empmgr-project> git log --oneline --graph --all 
-* 487293d (HEAD -> feature/validation) validate salary and email inputs
-* d8252e8 (HEAD -> main, origin/main) Add employee menu and functions
+l
+*   ed27480 (HEAD -> main, origin/main) merge feature\report and feature\validator
+|\  
+| * 487293d (feature/validation) validate salary and email inputs
+* | 7b85f00 (feature/report) README change task 3 output updated
+* | 3a481e6 Add Department summary report
+|/  
+* d8252e8 Add employee menu and dependencies
 * c27382e Export employee package functions
 * f600ad9 Add salary input validation
 * 88613bc Add JSON employee storage
